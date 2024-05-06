@@ -1,0 +1,140 @@
+.screen {
+    width: 400px;
+    height: 800px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: #e06666;
+    margin: 150px auto;
+    position: relative;
+    text-align: center;
+}
+
+.screen-search {
+    width: 400px;
+    height: 800px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: #e06666;
+    margin: 150px auto;
+    position: relative;
+    text-align: center;
+}
+
+.screen-about {
+    width: 400px;
+    height: 800px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: #e06666;
+    margin: 150px auto;
+    position: relative;
+    text-align: center;
+}
+
+.UI-base-home{
+    width: 400px;
+    height: 100px;
+    background-color: #ea9999;
+    position: relative;
+    top: 46.1%;
+    border-radius: 0px 0px 20px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+.UI-base-about{
+    width: 400px;
+    height: 100px;
+    background-color: #ea9999;
+    position: relative;
+    top: 46.1%;
+    border-radius: 0px 0px 20px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+.UI-base-search{
+    width: 400px;
+    height: 100px;
+    background-color: #ea9999;
+    position: relative;
+    top: 46.1%;
+    border-radius: 0px 0px 20px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+.icons a {
+    text-decoration: none;
+    padding:0 30px;
+}
+
+.icons i {
+    color: white;
+    font-size: 40px;
+}
+
+.icons .home i{
+    margin-left: 20px;
+}
+
+.icons .about i{
+    margin-right: 20px;
+}
+
+.title {
+    font-size: 60px;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 10%;
+}
+
+.description {
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 10%;
+    margin: 0px 15px 0px 15px;
+    
+}
+
+.description-search {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 10%;
+    margin: 0px 15px 0px 15px;
+    
+}
+
+.description-about {
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 10%;
+    margin: 0px 15px 0px 15px;
+    
+}
+
+.iconapp {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+  

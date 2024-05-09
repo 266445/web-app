@@ -36,7 +36,7 @@
     height: 100px;
     background-color: #ea9999;
     position: relative;
-    top: 26.6%;
+    top: 22.5%;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     justify-content: space-around;
@@ -48,7 +48,7 @@
     height: 100px;
     background-color: #ea9999;
     position: relative;
-    top: 18.15%;
+    top: 23.5%;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     justify-content: space-around;
@@ -60,7 +60,7 @@
     height: 100px;
     background-color: #ea9999;
     position: relative;
-    top: 34.8%;
+    top: 34%;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     justify-content: space-around;
@@ -101,7 +101,7 @@
     color: black;
     font-weight: bold;
     position: relative;
-    top: 10%;
+    top: 6%;
 }
 
 .description {
@@ -109,7 +109,7 @@
     color: white;
     font-weight: bold;
     position: relative;
-    top: 10%;
+    top:6%;
     margin: 0px 15px 0px 15px;
     
 }
@@ -153,7 +153,7 @@
 
 #iconapp {
     position: relative;
-    top: 18%;
+    top: 14%;
 }
 
 .search-button {

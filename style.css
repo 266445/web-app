@@ -35,8 +35,8 @@
     width: 400px;
     height: 100px;
     background-color: #ea9999;
-    position: relative;
-    top: 26.5%;
+    position: absolute;
+    top: 87.6%;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     justify-content: space-around;
@@ -47,8 +47,8 @@
     width: 400px;
     height: 100px;
     background-color: #ea9999;
-    position: relative;
-    top: 19%;
+    position: absolute;
+    top: 87.6%;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     justify-content: space-around;
@@ -59,8 +59,8 @@
     width: 400px;
     height: 100px;
     background-color: #ea9999;
-    position: relative;
-    top: 35%;
+    position: absolute;
+    top: 87.6%;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     justify-content: space-around;
@@ -71,7 +71,7 @@
     width: 400px;
     height: 100px;
     background-color: #ea9999;
-    position: relative;
+    position: absolute;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     justify-content: space-around;
